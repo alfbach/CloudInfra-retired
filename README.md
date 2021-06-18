@@ -1,4 +1,4 @@
-### Red Hat Cloud Infrastructure Workshop
+# Red Hat Cloud Infrastructure Workshop
 
 The Cloud Infrastructure Architecture Workshop is designed to give new Red Hat Infrastructure Partners an overview about Red Hat Products related to private cloud scenarios. As the name implies the content is related to infrastructure technologies so there is no or even very little developer content in. 
 
@@ -6,7 +6,7 @@ The focus is on building a solution with multiple products and showing their uni
 
 ## Agenda:
 
-# Day 1:        
+### Day 1:        
 
 10:00 Welcome Intro to Red Hat
 
@@ -30,7 +30,7 @@ The focus is on building a solution with multiple products and showing their uni
 
 17:00 End Day 1
 
-Day 2:        
+### Day 2:        
 
 09:00 Red Hat Virtualisation technologies, Red Hat Virtualisation, OpenStack
 
