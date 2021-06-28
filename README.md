@@ -18,13 +18,13 @@ The focus is on building a solution with multiple products and showing their uni
 
 12:30 Lunch Break
 
-13:30 Identity Management and Certificate services on RHEL 
+13:30 Smart Mangement (Satellite and Insight)
+ 
+14:30 Management (Ansible)Management (Ansible)
 
-14:15 Smart Mangement (Satellite and Insight)
+15:30 Coffee Break 
 
-15:00 Coffee Break 
-
-15:30 Management (Ansible)
+16:00 Identity Management and Certificate services on RHEL
 
 17:00 End Day 1
 
