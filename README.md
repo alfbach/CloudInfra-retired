@@ -20,7 +20,7 @@ The focus is on building a solution with multiple products and showing their uni
 
 13:30 Smart Mangement (Satellite and Insight)
  
-14:30 Management (Ansible)Management (Ansible)
+14:30 Red Hat Virtualisation technologies, Red Hat Virtualisation, OpenStack
 
 15:30 Coffee Break 
 
@@ -30,7 +30,7 @@ The focus is on building a solution with multiple products and showing their uni
 
 ### Day 2:        
 
-09:00 Red Hat Virtualisation technologies, Red Hat Virtualisation, OpenStack
+09:00 Management (Ansible)Management (Ansible)
 
 10:30 Coffee Break
 
