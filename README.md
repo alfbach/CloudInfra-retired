@@ -4,6 +4,8 @@ The Cloud Infrastructure Architecture Workshop is designed to give new Red Hat I
 
 The focus is on building a solution with multiple products and showing their unique features. 
 
+## Link to Mentimeter: https://www.menti.com/4xsftugb2m
+
 ## Agenda:
 
 ### Day 1:        
